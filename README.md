@@ -1,65 +1,52 @@
-<h1 align="center">Hi, I'm Arsh 👋</h1>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120§ion=header)](https://capsule-render.vercel.app)
 
-<p align="center">
-  <em>AI & Machine Learning enthusiast | B.Tech in Artificial Intelligence</em><br>
-  Passionate about building intelligent solutions through deep learning and data science.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=6E40C9&width=435&lines=Hello%2C+it's+Arsh+Saxena!;AI+%26+Full-Stack+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence  
-- 🤖 Deep interest in AI, Machine Learning & Data Science  
-- 🧠 Focused on real-world applications   
-- 📈 Always curious about how data drives the world  
-- 📫 Reach me at: arshsaxena0612@gmail.com
+B.Tech Artificial Intelligence · SRMIST Kattankulathur · Class of 2027 
 
----
-
-## 🚀 Skills & Tools
-
-**Languages & Libraries**  
-`Python` `Pandas` `NumPy` `Matplotlib` `NLTK` `Scikit-learn` `TensorFlow` `Keras` `OpenCV`
-
-**Technologies**  
-`LSTM` `YOLO` `CNN` `NLP` `Data Analysis` `Time Series Forecasting` `Object Detection`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Jupyter Notebook` `VS Code`  
+- **GitHub Copilot Certified** · Microsoft  |  **SAP Generative AI Developer** · SAP
+- **Special Mention – Best Innovation** · HackTrix 2024 · IEEE SRM
+- **3rd Place** · StoryFest 2024 · SRMIST · Recognized at ICSDG 2024
+- Speaking: English · Hindi · Marathi · German · Japanese
 
 ---
 
-## 📂 Projects
+### Tech Stack
 
-### 🔍 Real-Time Object Detection System  
-Built a deep learning-based object detection model using YOLOv3 and OpenCV to classify and track objects in real-time video streams.  
-**Tools:** TensorFlow, Python, OpenCV  
-**Outcome:** Accurate, real-time detection across varying conditions.
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,flask,express,tailwind,tensorflow,pytorch,opencv,mysql,postgres,firebase,aws,docker,redis,git,vscode&perline=11)](https://skillicons.dev)
 
-### 💬 Social Media Sentiment Analysis  
-Developed a sentiment classifier to analyze social media text and determine public mood trends.  
-**Tools:** Python, NLTK, Scikit-learn  
-**Outcome:** Achieved high accuracy with domain-specific tuning and NLP pipelines.
-
-### 📊 Stock Price Prediction using LSTM  
-Implemented LSTM-based model to predict stock price movements using historical time-series data.  
-**Tools:** TensorFlow, Keras, Pandas  
-**Outcome:** Captured market trends and delivered reliable forecasts.
 
 ---
 
-## 📫 Let's Connect
+### GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsh-saxena-907176286/)
-- 💻 [Devfolio](https://devfolio.co/@ArshSaxena1206)
-- 🐙 [GitHub](https://github.com/ArshSaxena1206)
+
+
+
+![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshSaxena1206&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSaxena1206&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArshSaxena1206&theme=tokyonight&hide_border=true)
+
+
+
 
 ---
 
-_“Always learning, always building.”_
+### Connect with me!
 
-<!---
-ArshSaxena1206/ArshSaxena1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-saxena-907176286/)
+[![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@ArshSaxena1206)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshsaxena0612@gmail.com)
+
+---
+
+> [!IMPORTANT]
+> [Download my Resume](https://drive.google.com/file/d/1LS-aUzsZeV46uXZc7f2w4c5hlGPThuEp/view?usp=sharing)
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer&reversal=true)](https://capsule-render.vercel.app)
